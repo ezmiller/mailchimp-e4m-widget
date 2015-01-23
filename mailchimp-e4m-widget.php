@@ -29,13 +29,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // Development Notes
 /* ******************************************************************* /
 * 12/15-2014 - Rough draft finished (v.01)
-*	Still to be done
-*	+ Ensure that the plugin deletes old files when new file uploaded
-*   + Make sure that admin panel works when, on new install, user
-*	  adds all new data, at once. I.e. file upload may not work if
-*     all AWS info not yet saved before file upload attempted.
-*   + Set it up so it works with cloudfront?
-*   + Add instructions about how to create the AWS Policy for S3
+*	//TODO: Ensure that the plugin deletes old files when new file uploaded
+*   //TODO: Make sure that admin panel works when, on new install, user adds all new data, at once. I.e. file upload may not work if all AWS info not yet saved before file upload attempted.
+*   //TODO: Set it up so it works with cloudfront?
+*   //TODO: Add instructions about how to create the AWS Policy for S3
 /* ******************************************************************* */
 
 
