@@ -8,6 +8,7 @@
 
 MailChimp E4M Widget is a Wordpress plugin that provides a form widget through which users can provide their email in exchange for a media file of some sort. It is in a super beta state and requires considerable manual installation. Files are delivered using AWS and in order to setup the plugin you must acquire an AWS account and so some setup.
 
+Example: [http://okgo.net](http://okgo.net)
 
 ### ToDo
 
